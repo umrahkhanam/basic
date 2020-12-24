@@ -1,0 +1,30 @@
+
+
+        h3{
+        color: aquamarine;
+         }
+        h4{
+          color: greenyellow;
+          }
+         h2{
+           color: grey;
+           
+}
+.cont2{
+    margin:20px;
+    height:25vh;
+    width:25vw;
+    background-color: lightseagreen;
+    padding:40px;
+    color:white;
+    float:left;
+}
+.cont3{
+  margin:20px;
+  height:25vh;
+  width:25vw;
+  background-color: #48D1CC;
+  padding:40px;
+  color:white;
+  float:left;
+}
